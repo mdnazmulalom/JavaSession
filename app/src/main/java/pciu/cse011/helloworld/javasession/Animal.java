@@ -11,6 +11,7 @@ public class Animal {
         Color = color;
         this.legs = legs;
         this.hasTale = hasTale;
+        //hello
     }
     public void eat (String food){
         System.out.println("Eating" + food);
